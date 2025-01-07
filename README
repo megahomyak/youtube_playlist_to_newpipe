@@ -1,3 +1,5 @@
+UPDATE: I was so tired implementieg this for NewPipe that I just switched to LibreTube. It supports playlist loading directly from Takeout `.csv`s
+
 Converts a Youtube playlist .csv taken from Google Takeout for Youtube playlists. Allows to convert Watch Later, for example, which cannot be made public
 
 === HOW TO GET PLAYLISTS FROM GOOGLE TAKEOUTS ===

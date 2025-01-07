@@ -1,0 +1,15 @@
+Converts a Youtube playlist .csv taken from Google Takeout for Youtube playlists. Allows to convert Watch Later, for example, which cannot be made public
+
+=== HOW TO GET PLAYLISTS FROM GOOGLE TAKEOUTS ===
+
+* Go to https://takeout.google.com/
+* Deselect all
+* Select the one for Youtube
+* Deselect all subcatalogs
+* Select the one for playlists
+* Proceed to get the archive with the data
+
+=== HOW TO USE THIS PROGRAM ===
+
+* Unpack the desired playlist .csv received from Google Takeouts somewhere
+* Run `convert.py` passing the path to the .csv as an only argument
